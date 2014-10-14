@@ -1,6 +1,6 @@
 portflio.sublime-project
 portflio.sublime-workspace
-/dist
+# /dist
 .DS_Store
 .tmp
 .sass-cache/

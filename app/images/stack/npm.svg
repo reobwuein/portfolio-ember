@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup">
+            <g id="shape" sketch:type="MSLayerGroup" fill="#1F1B1C">
+                <g id="dark" sketch:type="MSShapeGroup">
+                    <polygon id="Polygon-2" transform="translate(100.000000, 100.000000) scale(1, -1) translate(-100.000000, -100.000000) " points="100 0 186.60254 50 186.60254 150 100 200 13.3974596 150 13.3974596 50 "></polygon>
+                    <polygon id="Polygon-3" transform="translate(100.000000, 100.000000) scale(1, -1) translate(-100.000000, -100.000000) " points="100 0 195.105652 69.0983006 158.778525 180.901699 41.2214748 180.901699 4.89434837 69.0983006 "></polygon>
+                </g>
+            </g>
+            <g id="npm-logo" sketch:type="MSLayerGroup" transform="translate(35.000000, 75.000000)" fill="#CD3632">
+                <g id="Page-1" sketch:type="MSShapeGroup">
+                    <path d="M0,0 L130,0 L130,43.9384615 L65,43.9384615 L65,51 L36.14,51 L36.14,43.9384615 L0,43.9384615 L0,0 Z M7.35910526,36.4828278 L21.7194219,36.4829128 L21.7194221,14.5308918 L28.9391053,14.5308918 L28.9391053,36.482913 L36.093844,36.482913 L36.093844,7.45200082 L7.35910526,7.45200082 L7.35910526,36.4828278 Z M43.2466666,7.32307692 L43.3333334,43.9384615 L57.6333334,43.9384615 L57.6333334,36.6329882 L72.1099197,36.6329882 L72.1099197,7.32307692 L43.2466666,7.32307692 Z M57.46,14.3846154 L65,14.3846154 L65,29.2923077 L57.46,29.2923077 L57.46,14.3846154 Z M79.3866666,7.32307692 L79.3866666,36.3538462 L93.7728093,36.3538462 L93.7728093,14.5588021 L100.966146,14.5588021 L100.966146,36.3539892 L108.151651,36.3539892 L108.151651,14.6461538 L115.352811,14.6461538 L115.352811,36.3538462 L122.548062,36.3538462 L122.548062,7.32307692 L79.3866666,7.32307692 Z" id="Rectangle-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

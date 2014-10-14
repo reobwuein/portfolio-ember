@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="104.303761%" y1="65.5470923%" x2="99.9801225%" y2="64.3011318%" id="linearGradient-1">
+            <stop stop-color="#E3E2CE" offset="0%"></stop>
+            <stop stop-color="#CECEB5" offset="45.08%"></stop>
+            <stop stop-color="#95966F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.1244267%" y1="97.3686054%" x2="50.0981813%" y2="80.1545071%" id="linearGradient-2">
+            <stop stop-color="#198332" offset="0%"></stop>
+            <stop stop-color="#24933B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-3.56202508%" y1="73.3646547%" x2="28.1008834%" y2="65.4514476%" id="linearGradient-3">
+            <stop stop-color="#0F9B36" offset="0%"></stop>
+            <stop stop-color="#64BB66" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup">
+            <g id="shape" sketch:type="MSLayerGroup" fill="#1F1B1C">
+                <g id="dark" sketch:type="MSShapeGroup">
+                    <polygon id="Polygon-2" transform="translate(100.000000, 100.000000) scale(1, -1) translate(-100.000000, -100.000000) " points="100 0 186.60254 50 186.60254 150 100 200 13.3974596 150 13.3974596 50 "></polygon>
+                    <polygon id="Polygon-3" transform="translate(100.000000, 100.000000) scale(1, -1) translate(-100.000000, -100.000000) " points="100 0 195.105652 69.0983006 158.778525 180.901699 41.2214748 180.901699 4.89434837 69.0983006 "></polygon>
+                </g>
+            </g>
+            <g id="mongo" sketch:type="MSLayerGroup" transform="translate(72.000000, 33.000000)">
+                <g id="layer1_4_" transform="translate(0.000000, -0.290760)" sketch:type="MSShapeGroup">
+                    <g id="g904" transform="translate(0.021651, 0.283430)">
+                        <path d="M27.5398679,0.00896891198 C27.1900803,-0.0468579891 28.2592113,2.03319743 25.6942855,5.28305523 C22.9303963,8.78495776 0.680722115,23.1815258 -0.0120805753,61.9704228 C-0.483955169,88.3941187 20.3909129,106.842255 25.6973971,110.281559 C25.6973971,110.281559 27.6539012,117.075784 27.7181479,125.093625 L31.2249925,126.007356 C30.8063823,117.764011 30.6846613,112.998773 33.0674633,109.36014 C36.4086575,107.787835 57.4575957,89.7722195 56.5597893,61.9149619 C55.4901093,28.7310859 36.8560049,14.3409242 31.5537306,7.42204922 C29.2615329,4.43119164 28.2804438,0.073398647 27.5398679,0.00896891198 L27.5398679,0.00896891198 Z" id="path1268_11_" fill="url(#linearGradient-1)"></path>
+                        <path d="M27.5398679,0.00896891198 C29.4687331,6.24767087 29.1123561,34.6551437 29.5289529,61.9156941 C29.9067455,86.6387745 25.2601169,105.825657 33.0674633,109.360323 C36.4086575,107.788018 57.4575957,89.7724026 56.5597893,61.915145 C55.4901093,28.7312689 36.8560049,14.3411072 31.5537306,7.42223226 C29.2615329,4.43119164 28.2804438,0.073398647 27.5398679,0.00896891198 L27.5398679,0.00896891198 Z" id="path871_11_" fill="url(#linearGradient-2)"></path>
+                        <path d="M27.5435287,0.00841979492 C27.1937411,-0.0474071062 28.2566487,2.03374655 25.6917229,5.28360435 C22.9278337,8.78550688 0.678891725,23.1809767 -0.0139109655,61.9698737 C-0.485785559,88.3935696 20.3951228,106.838412 25.701607,110.277898 C27.160428,109.607792 27.8598201,102.721681 28.4944164,94.7424611 C28.5421896,86.2847771 29.7233404,74.8671691 29.5254752,61.919904 C29.1348699,36.3630808 29.4255359,9.79112326 27.8739141,1.42971779 C27.8698873,1.40811918 27.8678738,1.39091351 27.863847,1.36968099 C27.7589656,0.915927256 27.6531691,0.461990486 27.5435287,0.00841979492 L27.5435287,0.00841979492 Z" id="path873_11_" fill="url(#linearGradient-3)"></path>
+                    </g>
+                </g>
+                <g id="g4507"></g>
+                <g id="g4509"></g>
+                <g id="g4511"></g>
+                <g id="g4513"></g>
+                <g id="g4515"></g>
+                <g id="g4517"></g>
+                <g id="g4519"></g>
+                <g id="g4521"></g>
+                <g id="g4523"></g>
+                <g id="g4525"></g>
+                <g id="g4527"></g>
+                <g id="g4529"></g>
+                <g id="g4531"></g>
+                <g id="g4533"></g>
+                <g id="g4535"></g>
+            </g>
+        </g>
+    </g>
+</svg>

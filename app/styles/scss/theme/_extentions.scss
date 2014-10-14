@@ -1,0 +1,6 @@
+.connection-methods, .stack-item-list{
+    .rating{
+        @extend .bar-graph;
+        @extend .bar-graph.horizontal;
+    }
+}

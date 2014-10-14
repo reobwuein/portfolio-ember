@@ -1,0 +1,29 @@
+<section class="description open" {{action 'toggleView' 'description'}}>
+    <h1>Stack</h1>
+    <p>I've got varying experience with the technologies, software and techniques bellow. The green bar shows the amount of proviciency I think I have. You can click each of the items to get a description and see when I've worked with it.</p>
+    <p>Because it is quite the list you can use the filters in the top right corner to narrow the results</p>
+    <p>Click this box to hide it</p>
+</section>
+
+<section class="filters fixed">
+    <h3 {{action 'toggleView' 'filters'}}>Filters</h3>
+    <p>
+        Filter stack to only show: <span class="info">click a filter to add it, click again to remove it</span><span class="info">multiple filters will narrow the results</span>
+    {{#each categories}}
+            <a href="javascript:void(0)" {{action 'toggleFilter' name}} {{bind-attr class=":filter activeFilter:active:inactive"}} {{bind-attr data-filter-name=name}}>{{name}}</a>
+    {{/each}}
+    </p>
+</section>
+
+<section class="stack-item-list">
+    {{#each stack}}
+		<article class="stack-item" {{bind-attr id=name}} {{bind-attr data-category=category}} {{bind-attr data-rating=rating}}>
+            {{#link-to 'stack_detail' id}}
+                <h3>{{name}}</h3>
+                <p>{{tagline}}</p>
+                <span>Proficiency:<span class="rating" {{bind-attr data-amount=rating}} data-max="5">{{rating}}/5</span></span>
+    			{{svg image name}}
+            {{/link-to}}
+        </article>
+    {{/each}}
+</section>

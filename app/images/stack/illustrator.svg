@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="99.4073542%" y1="-0.476446809%" x2="1.55904167%" y2="99.4538511%" id="linearGradient-1">
+            <stop stop-color="#FFAA2A" offset="0%"></stop>
+            <stop stop-color="#FFC06C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9998773%" y1="-0.168434343%" x2="49.9998773%" y2="99.4949495%" id="linearGradient-2">
+            <stop stop-color="#251200" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup">
+            <g id="shape" sketch:type="MSLayerGroup" fill="#1F1B1C">
+                <g id="dark" sketch:type="MSShapeGroup">
+                    <polygon id="Polygon-2" transform="translate(100.000000, 100.000000) scale(1, -1) translate(-100.000000, -100.000000) " points="100 0 186.60254 50 186.60254 150 100 200 13.3974596 150 13.3974596 50 "></polygon>
+                    <polygon id="Polygon-3" transform="translate(100.000000, 100.000000) scale(1, -1) translate(-100.000000, -100.000000) " points="100 0 195.105652 69.0983006 158.778525 180.901699 41.2214748 180.901699 4.89434837 69.0983006 "></polygon>
+                </g>
+            </g>
+            <g id="illustrator" sketch:type="MSLayerGroup" transform="translate(49.625000, 50.598171)">
+                <rect id="Rectangle-path" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" x="0" y="0" width="100.593555" height="98.6351747"></rect>
+                <path d="M36.7819344,50.2673506 L45.6985635,50.2673506 L41.2402489,32.9534309 L36.7819344,50.2673506 L36.7819344,50.2673506 Z M7.6962599,7.77719131 L7.6962599,91.0141578 L93.1961954,91.0141578 L93.1961954,7.77719131 L7.6962599,7.77719131 L7.6962599,7.77719131 Z M50.5917945,69.2510542 L47.3295006,57.9989297 L35.2593067,57.9989297 L31.9970127,69.2510542 L23.7327585,69.2510542 L35.3680358,29.469039 L35.3680358,25.1133915 L46.4596674,25.1133915 L59.7258819,69.2510542 L50.5917945,69.2510542 L50.5917945,69.2510542 Z M72.5575995,69.2510542 L63.6409705,69.2510542 L63.6409705,35.6760785 L72.5575995,35.6760785 L72.5575995,69.2510542 L72.5575995,69.2510542 Z M68.1534397,31.647073 C65.6010336,31.647073 63.5318216,29.5993595 63.5318216,27.0736641 C63.5318216,24.5477585 65.6008237,22.500045 68.1534397,22.500045 C70.7060556,22.500045 72.7750578,24.5477585 72.7750578,27.0736641 C72.7750578,29.5993595 70.7060556,31.647073 68.1534397,31.647073 L68.1534397,31.647073 Z" id="Shape" fill="url(#linearGradient-2)" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

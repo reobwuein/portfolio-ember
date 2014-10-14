@@ -1,0 +1,50 @@
+#swatches{
+	margin:10%;
+	background: $swatches-background;
+
+	&:after{
+		display: block;
+		content: "";
+		clear: both;
+	}
+	
+
+	.swatch{
+		position: relative;
+		width: 0;
+		height: 0;
+		padding: 8.3333%;
+		outline: 0;
+		float:left;
+
+		@for $i from 1 through length($swatches-list){
+			$number : $i;
+			$swatch : nth($swatches-list, $i);
+
+			&:nth-child(#{$number}){
+				
+				background: #{$swatch};
+				&:before{
+					opacity: 0;
+					transition: all .5s;
+				}
+				&:hover{
+
+					&:before{
+						content:"#{$swatch}";
+						position:absolute;
+						display: block;
+						left:0;
+						bottom: 0;
+						color: $swatches-copy;
+						background: rgba($swatches-background ,.5);
+						width:100%;
+						padding: .5em 0;
+						text-indent: 1em;
+						opacity: 1;
+					}
+				}
+			}
+		}
+	}
+}

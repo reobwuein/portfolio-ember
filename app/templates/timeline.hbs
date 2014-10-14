@@ -1,0 +1,32 @@
+<section class="time-line-list x5">
+    {{! Timeline}}
+    {{! List of items, chronologically seperated by categories. Multiple rows for same catagory posible, no overlap in a single line}}
+	{{#each categories}}
+		<article class="time-line">
+			<h3 {{bind-attr id=name}}>{{name}}</h3>
+			{{#each}}
+				{{timeline_event_block this}}
+			{{/each}}
+            <div class="now"><div>
+		</article>
+	{{/each}}
+    {{! /Timeline}}
+
+</section>
+{{! Timeline controls}}
+{{! Would rather put this in shadow dom, but support still too low}}
+<form>
+    <fieldset name="scale-timeline">
+        <button type="button" class="x1" {{action 'scale' 1}}>1x</button>
+        <button type="button" class="x2" {{action 'scale' 2}}>2x</button>
+        <button type="button" class="x3" {{action 'scale' 3}}>3x</button>
+        <button type="button" class="x5" {{action 'scale' 5}}>5x</button>
+        <button type="button" class="x10" {{action 'scale' 10}}>10x</button>
+        <button type="button" class="x100" {{action 'scale' 100}}>100x</button>
+    </fieldset>
+    <div class="scrubber">
+        <div class="now"></div>
+        <div class="scope"></div>
+    </div>
+</form>
+{{! /Timeline controls}}

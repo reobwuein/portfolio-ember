@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="46.0238317%" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#8ED8F8" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="57.5981659%" cy="-27.7907901%" fx="57.5981659%" fy="-27.7907901%" r="68.1214178%" id="radialGradient-2">
+            <stop stop-color="#CDE7CA" offset="0%"></stop>
+            <stop stop-color="#6CC071" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup">
+            <g id="shape" sketch:type="MSLayerGroup" fill="#1F1B1C">
+                <g id="dark" sketch:type="MSShapeGroup">
+                    <polygon id="Polygon-2" transform="translate(100.000000, 100.000000) scale(1, -1) translate(-100.000000, -100.000000) " points="100 0 186.60254 50 186.60254 150 100 200 13.3974596 150 13.3974596 50 "></polygon>
+                    <polygon id="Polygon-3" transform="translate(100.000000, 100.000000) scale(1, -1) translate(-100.000000, -100.000000) " points="100 0 195.105652 69.0983006 158.778525 180.901699 41.2214748 180.901699 4.89434837 69.0983006 "></polygon>
+                </g>
+            </g>
+            <g id="basecamp" sketch:type="MSLayerGroup" transform="translate(62.000000, 67.000000)">
+                <g id="Layer_1_1_" transform="translate(-19.000000, -16.000000)" sketch:type="MSShapeGroup">
+                    <g id="Group">
+                        <g transform="translate(0.000000, 0.753846)" id="Shape">
+                            <path d="M58.7532468,-0.988292308 C27.4603636,-0.988292308 2.9467013,38.8532308 0.628207792,72.5094462 C10.449039,89.5569231 34.1243377,95.9751692 58.7532468,95.9751692 C83.3753766,95.9751692 107.061974,89.5569231 116.878286,72.5071846 C114.553013,38.8554923 90.0438701,-0.988292308 58.7532468,-0.988292308 L58.7532468,-0.988292308 Z" fill="url(#radialGradient-1)"></path>
+                            <path d="M108.693506,64.4900308 C108.693506,64.4900308 101.78774,49.5367385 94.7622078,40.8094615 C87.7366753,32.0867077 79.1496623,22.5814615 74.072026,22.5814615 C68.9989091,22.5814615 54.8212987,47.7116769 48.3132468,47.7116769 C41.8051948,47.7116769 38.4246234,36.3157846 30.4228831,36.3157846 C22.4211429,36.3157846 9.70558442,63.7866923 9.70558442,63.7866923 L8.84914286,68.4432 C8.84914286,68.4432 13.2669351,88.0462154 59.4786234,88.0462154 C105.692571,88.0462154 109.387247,68.7711231 109.387247,68.7711231 L108.693506,64.4900308 L108.693506,64.4900308 Z" fill="url(#radialGradient-2)"></path>
+                            <path d="M49.0341039,58.4336308 C41.8571688,58.4336308 38.1805714,51.3437077 36.182961,46.9721538 C34.3932468,43.0302923 34.0791429,36.8020154 28.9902078,36.6369231 C29.4941299,36.4379077 29.9709351,36.3180462 30.4206234,36.3180462 C38.4223636,36.3180462 41.8074545,47.7116769 48.310987,47.7116769 C54.8167792,47.7116769 68.9966494,22.5814615 74.0697662,22.5814615 C75.0301558,22.5814615 76.1012727,22.9161692 77.2763377,23.5177385 C76.4108571,23.4024 75.3058442,23.4860769 74.4516623,24.3386769 C72.8133506,25.9850769 57.9216623,58.4336308 49.0341039,58.4336308 L49.0341039,58.4336308 Z" fill="#0DB14B"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Layer_2" transform="translate(9.000000, 2.000000)"></g>
+            </g>
+        </g>
+    </g>
+</svg>

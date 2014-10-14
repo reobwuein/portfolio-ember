@@ -1,0 +1,59 @@
+-Wordpress
+Morello
+MODx
+Radiomanager
+-Ember
+-jQuery
+-Bootstrap
+Yeoman
+-Bower
+-Grunt
+-Node
+-NPM
+Express
+Passport
+-JS
+-PHP
+-Ruby
+Gitlab
+-Github
+-Bitbucket
+-Redmine
+-Jira
+-Trello
+-Basecamp
+Mail chimp
+Spotify
+-Apigee
+-Python
+-SVG
+HTML
+CSS
+-Sass
+-Less
+-Phonegap
+-Actionscript
+-Flash
+-Eclipse
+-Sublime
+-Sketch
+-Photoshop
+-Illustrator
+Indesign
+-After Effects
+-Cinema4D
+-MySQL
+-PostgressSQL
+-Redis
+-MongoDB
+-Neo4J
+Facebook API
+Twitter API
+Hyves API
+Linkedin log in
+Vkontakte API
+mespeak.js
+Sencha Touch
+-Textastic
+SSH Terminal
+-Plex

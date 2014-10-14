@@ -1,0 +1,30 @@
+/* app colors */
+
+$swatches-list: (
+	#EDFAEF,
+	#C9D4CA,
+	#1B1F1C, 
+	rgba(#1B1F1C, .5),
+	#0A0C0A,
+	black,
+	#2C3D25,
+	#2B5E18,
+	#37781E,
+	#41991F,
+	rgba(#37781E, .5),
+	black
+);
+
+/* app swatches */
+
+$swatches-copy: 			nth($swatches-list, 1);
+$swatches-copy-alt: 		nth($swatches-list, 2);
+
+$swatches-background: 		nth($swatches-list, 5);
+$swatches-background-alt: 	nth($swatches-list, 3);
+
+$swatches-link: 			nth($swatches-list, 9);
+$swatches-link-hover: 		nth($swatches-list, 10);
+$swatches-link-active: 		nth($swatches-list, 8);
+$swatches-link-inactive: 	nth($swatches-list, 7);
+

@@ -1,0 +1,11 @@
+<section class="article-list">
+	{{#each articles}}
+		<article class="article" {{bind-attr data-category=category}} {{bind-attr data-rating=rating}}>
+			<h3 {{bind-attr id=name}}>{{name}}</h3>
+			{{svg image}}
+			{{#each stackItems}}
+				{{#link-to 'stack_detail' id}}{{name}}{{/link-to}}
+			{{/each}}
+		</article>
+	{{/each}}
+</section>

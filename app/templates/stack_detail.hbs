@@ -1,0 +1,38 @@
+<article>
+    <section class="details">
+        {{svg image}}
+        <h3>Name</h3>
+        <span>{{name}}</span>
+        {{#if categories}}
+            <h3>Categories</h3>
+            {{#each categories}}
+                {{category_link this}}
+            {{/each}}
+        {{/if}}
+        {{#if events}}
+            <h3>Experience</h3>
+            <ul>
+            {{#each events}}
+                <li>{{#link-to 'timeline_detail' id}}{{name}}{{/link-to}}</li>
+            {{/each}}
+            </ul>
+        {{/if}}
+        {{#if articles}}
+            <h3>Articles</h3>
+            <ul>
+            {{#each articles}}
+                <li>{{#link-to 'articles_detail' id}}{{name}}{{/link-to}}</li>
+            {{/each}}
+            </ul>
+        {{/if}}
+    </section>
+    <section class="copy">
+        <h1>{{name}}</h1>
+        <h2>{{tagline}}</h2>
+        {{{description}}}
+    </section>
+    {{link-to 'close' 'stack'}}
+</article>
+{{link-to 'close' 'stack'}}
+
+
